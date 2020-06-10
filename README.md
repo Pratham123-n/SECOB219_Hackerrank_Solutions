@@ -1,1 +1,1 @@
-# SEB227_Hackerrank_Solutions
+# SECOB219_Hackerrank_Solutions
